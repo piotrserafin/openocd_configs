@@ -2,11 +2,13 @@
 
 ## Supported Interfaces
 
-* RPI2B (bcm2835gpio)
+* Raspberry Pi 2B (bcm2835gpio)
 
 ## Supported Targets
 
 * STM32 Black Pill board with STM32F411CEU6 chip (SWD)
+* Raspberry Pi 3B/3B+/3A+ (JTAG)
+* Raspberry Pi 4B (JTAG)
 
 ## Modes
 
